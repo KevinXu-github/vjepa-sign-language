@@ -1,0 +1,17 @@
+# Large files
+*.pth
+*.pt
+*.ckpt
+data/videos/
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*_secret.py
