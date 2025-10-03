@@ -2,6 +2,8 @@
 *.pth
 *.pt
 *.ckpt
+*.pth.tar
+weights/
 data/videos/
 *.mp4
 
